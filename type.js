@@ -5,12 +5,12 @@ var scale = {
     zoomFactor = 1,
     stageLeft = 0,
     config = {
-        'stageWidth': 640,
-        'stageHeight': 400
+        'stageWidth': 1280,
+        'stageHeight': 800
     };
 
-var myconfwidth = 640
-var myconfheight = 400
+var myconfwidth = 1280
+var myconfheight = 800
 
 function scaleStage() {
     console.log("scaling....")
